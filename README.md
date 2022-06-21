@@ -1,6 +1,7 @@
-👋 Hi, I’m @ta1120
+👋 Hi, I’m Adam!
 
-Hungarian student
+I am a hungarian student computer science engineering student @BME-VIK.
+Born in '99.
 
 
 <!---
